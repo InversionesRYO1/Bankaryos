@@ -1,7 +1,6 @@
 body {
     background: #CACACA;
     position: auto;
-	
 }
 
 h1 {
@@ -72,4 +71,31 @@ div img {
     bottom: ;
     right: ;
     left: 600;
+}
+.texto{
+	font-size: 40px;
+    color: #D31B1B;
+    width: 50%;
+    position: relative;
+    top: 50px;
+	bottom: ;
+	right: ;
+    left: 500;
+
+}
+.Imagen{
+	position: relative;
+	top:180px;
+	bottom: ;
+	right: ;
+	left:-400;
+}
+.texto1{
+	color: white;
+	font-weight: bold;
+    font-size:40px;
+    text-align: center;
+    background: #D31B1B;
+    margin: 20px 90px;
+    padding: 20px;
 }
